@@ -1,0 +1,8 @@
+https://docs.dask.org/en/stable/
+http://matthewrocklin.com/slides/images/fail-case.gif
+https://www.youtube.com/watch?v=nTMGbkS761Q&ab_channel=Dask
+https://www.youtube.com/watch?v=1kkFZ4P-XHg&ab_channel=Enthought
+https://towardsdatascience.com/dask-a-scalable-solution-for-parallel-computing-d1d962f227f6
+https://medium.com/mlearning-ai/dask-from-scratch-to-scalable-analytics-in-python-e2139a6295e6
+
+

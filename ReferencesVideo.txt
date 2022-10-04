@@ -1,0 +1,11 @@
+[1]     Dask Distributed Tutorial for Scaling Python Code Across Multiple Cores and Multiple Machines
+        https://www.youtube.com/watch?v=v7famjsXdUY
+
+[2]     Pandas Limitations - Pandas vs Dask vs PySpark - DataMites Courses
+        https://www.youtube.com/watch?v=YLg4vuIADnQ
+
+[3]     Scaling Pandas Using Dask: How to Avoid All My Mistakes | Krishan Bhasin | Dask Summit 2021
+        https://www.youtube.com/watch?v=CVL8sTXT714
+
+[4]     Parallel and Distributed Computing in Python with Dask | SciPy 2020 | Bourbeau, McCarty, Pothina
+        https://www.youtube.com/watch?v=EybGGLbLipI
