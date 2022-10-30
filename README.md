@@ -1,1 +1,1 @@
-Seminar Course
+# Evaluate the DASK distributed computing framework in respect to various scientific computing tasks
