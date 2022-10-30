@@ -8,7 +8,7 @@
 
 ### 2) Final
 
-* [PDF]()
+* [PDF](#)
 
 
 ## Presentations
@@ -22,8 +22,8 @@
 
 ### 2) Intermediate
 
-* [PDF]()
+* [PDF](#)
 
-* [PPTX]()
+* [PPTX](#)
 
 
