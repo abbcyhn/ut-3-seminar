@@ -1,33 +1,35 @@
 # Evaluate the DASK distributed computing framework in respect to various scientific computing tasks
 
-## **Reports**
+## Reports
 
-### 1) **Draft Version** - <span style="color:#DC143C">02.11.2022</span>
+### 1) Draft Version - 02.11.2022
 
-* [PDF](/Report%20-%20Draft.pdf) - <span style="color:#7CFC00">DONE</span>
-
-### 2) **Final Version** - <span style="color:#DC143C">07.12.2022</span>
-
-* [PDF](#) - <span style="color:#FFFF00">PROGRESS</span>
+- [x] [PDF](/Report%20-%20Draft.pdf) - DONE
 
 
-## **Presentations**
 
-### 1) **Initial Version** - <span style="color:#DC143C">05.10.2022</span>
+### 2) Final Version - 07.12.2022
 
-* [PDF](/Presentation%20-%20Initial.pdf) - <span style="color:#7CFC00">DONE</span>
-
-* [PPTX](https://www.canva.com/design/DAFOEg6OiaE/o0dwHRTgLsgIJD9Xit2lNg/view?utm_content=DAFOEg6OiaE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1) - <span style="color:#7CFC00">DONE</span>
+* [PDF](#) - PROGRESS
 
 
-### 2) **Intermediate Version** - <span style="color:#DC143C">02.11.2022</span>
+## Presentations
 
-* [PDF](#) - <span style="color:#FFFF00">PROGRESS</span>
+### 1) Initial Version - 05.10.2022
 
-* [PPTX](#) - <span style="color:#FFFF00">PROGRESS</span>
+* [PDF](/Presentation%20-%20Initial.pdf) - DONE
 
-### 3) **Final Version** - <span style="color:#DC143C">07.12.2022</span>
+* [PPTX](https://www.canva.com/design/DAFOEg6OiaE/o0dwHRTgLsgIJD9Xit2lNg/view?utm_content=DAFOEg6OiaE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1) - DONE
 
-* [PDF](#) - <span style="color:#FFFF00">PROGRESS</span>
 
-* [PPTX](#) - <span style="color:#FFFF00">PROGRESS</span>
+### 2) Intermediate Version - 02.11.2022
+
+* [PDF](#) - PROGRESS
+
+* [PPTX](#) - PROGRESS
+
+### 3) Final Version - 07.12.2022
+
+* [PDF](#) - PROGRESS
+
+* [PPTX](#) - PROGRESS
