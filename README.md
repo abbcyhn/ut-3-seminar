@@ -7,7 +7,7 @@
 - [x] [PDF](/Report%20-%20Draft.pdf)
 
 ### 2) Final Version - 07.12.2022
-- [] [PDF](#)
+- [ ] [PDF](#)
 
 
 ## Presentations
@@ -18,9 +18,9 @@
 
 
 ### 2) Intermediate Version - 02.11.2022
-- [] [PDF](#)
-- [] [PPTX](#)
+- [ ] [PDF](#)
+- [ ] [PPTX](#)
 
 ### 3) Final Version - 07.12.2022
-- [] [PDF](#)
-- [] [PPTX](#)
+- [ ] [PDF](#)
+- [ ] [PPTX](#)
