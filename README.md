@@ -18,8 +18,8 @@
 
 
 ### 2) Intermediate Version - 02.11.2022
-- [ ] [PDF](/assets/presentations/Presentation%20-%20Intermediate.pdf)
-- [ ] [PPTX](https://www.canva.com/design/DAFQunV3cE0/k6kljYbZ3YtVywjhw1eq5A/view?utm_content=DAFQunV3cE0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [x] [PDF](/assets/presentations/Presentation%20-%20Intermediate.pdf)
+- [x] [PPTX](https://www.canva.com/design/DAFQunV3cE0/k6kljYbZ3YtVywjhw1eq5A/view?utm_content=DAFQunV3cE0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### 3) Final Version - 07.12.2022
 - [ ] [PDF](#)
