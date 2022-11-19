@@ -1,0 +1,6 @@
+1. Dask - Reading exec time: 17.32221603394
+2. Dask - Mean exec time: 40.38059936523438
+3. Dask - Std exec time: 259.81938323975
+4. Dask - Unique exec time: 29.5705108643
+5. Dask - Cumsum exec time: 247.292193222046
+6. Dask - Groupby Aggregation exec time: 182.2198850631714

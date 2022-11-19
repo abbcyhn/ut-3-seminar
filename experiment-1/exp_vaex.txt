@@ -1,0 +1,6 @@
+1. Vaex - Reading exec time: 163.1603394
+2. Vaex - Mean exec time: 343.277059936523438
+3. Vaex - Std exec time: 335.438323975
+4. Vaex - Unique exec time: 524.15705108643
+5. Vaex - Cumsum exec time: 408.093222046
+6. Vaex - Groupby Aggregation exec time: 2613.60631714

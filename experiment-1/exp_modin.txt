@@ -1,0 +1,6 @@
+1. Modin - Reading exec time: 225.221603394
+2. Modin - Mean exec time: 31.56877059936523438
+3. Modin - Std exec time: 345.75021938323975
+4. Modin - Unique exec time: 167.3265705108643
+5. Modin - Cumsum exec time: 524.78492193222046
+6. Modin - Groupby Aggregation exec time: 993.698850631714
