@@ -1,2 +1,4 @@
 datas/*.gz
 datas/*.parquet
+experiment-1/env
+experiment-2/env
