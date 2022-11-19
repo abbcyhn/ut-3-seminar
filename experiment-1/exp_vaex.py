@@ -32,12 +32,12 @@ if __name__ == '__main__':
 
     # 5) Cumsum exec time
     start_time = time.time()
-    _ = df['y1'].cumsum()
+    #_ = df['y1'].cumsum()
     line = f"5. Vaex - Cumsum exec time: {time.time() - start_time}"
     print(line); file.write(f"{line}\n")
 
     # 6) Groupby Aggregation exec time
     start_time = time.time()
-    _ = df.groupby('user_id')['x1'].mean()
+    _ = df.groupby(df.user_id, agg={'x_mean': [vaex.agg.mean('x1')]})
     line = f"6. Vaex - Groupby Aggregation exec time: {time.time() - start_time}"
     print(line); file.write(f"{line}\n")
