@@ -15,7 +15,7 @@ print(line); file.write(line)
 # 2) Mean exec time
 start_time = time.time()
 _ = df['x1'].mean()
-lien = f"2. Pandas - Mean exec time: {time.time() - start_time}\n"
+line = f"2. Pandas - Mean exec time: {time.time() - start_time}\n"
 print(line); file.write(line) 
 
 # 3) Std exec time
