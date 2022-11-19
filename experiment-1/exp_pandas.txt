@@ -1,0 +1,6 @@
+1. Pandas - Reading exec time: 15.335732221603394
+2. Pandas - Mean exec time: 0.11877059936523438
+3. Pandas - Std exec time: 4.421021938323975
+4. Pandas - Unique exec time: 9.163265705108643
+5. Pandas - Cumsum exec time: 3.673492193222046
+6. Pandas - Groupby Aggregation exec time: 52.115198850631714
