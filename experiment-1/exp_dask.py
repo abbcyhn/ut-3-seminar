@@ -3,7 +3,7 @@ import dask
 import dask.dataframe as dd
 
 if __name__ == '__main__':  
-    inputpath = '../datas/2022_place_deephaven.parquet'
+    inputpath = '../datas/2022_place_deephaven_sample.parquet'
     outputpath = 'exp_dask.txt'
     file = open(outputpath, 'w') 
 

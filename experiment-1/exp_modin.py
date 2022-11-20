@@ -6,7 +6,7 @@ import modin.pandas as pd
 if __name__ == '__main__':  
     ray.init()
 
-    inputpath = '../datas/2022_place_deephaven.parquet'
+    inputpath = '../datas/2022_place_deephaven_sample.parquet'
     outputpath = 'exp_modin.txt'
     file = open(outputpath, 'w') 
 

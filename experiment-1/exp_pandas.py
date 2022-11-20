@@ -2,7 +2,7 @@ import time
 import pandas as pd
 
 if __name__ == '__main__':  
-    inputpath = '../datas/2022_place_deephaven.parquet'
+    inputpath = '../datas/2022_place_deephaven_sample.parquet'
     outputpath = 'exp_pandas.txt'
     file = open(outputpath, 'w') 
 

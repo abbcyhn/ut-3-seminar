@@ -2,7 +2,7 @@ import time
 import vaex
 
 if __name__ == '__main__':  
-    inputpath = '../datas/2022_place_deephaven.parquet'
+    inputpath = '../datas/2022_place_deephaven_sample.parquet'
     outputpath = 'exp_vaex.txt'
     file = open(outputpath, 'w') 
 
