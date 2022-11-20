@@ -1,10 +1,10 @@
+import os
 import time
-import ray
 import modin.pandas as pd
 
 
 if __name__ == '__main__':  
-    ray.init()
+    os.environ["MODIN_ENGINE"] = "ray"
 
     inputpath = '../datas/2022_place_deephaven_sample.parquet'
     outputpath = 'exp_modin.txt'
