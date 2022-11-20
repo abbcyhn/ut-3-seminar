@@ -1,3 +1,4 @@
+*.pdf
 datas/*.gz
 datas/*.parquet
 experiment-1/env
