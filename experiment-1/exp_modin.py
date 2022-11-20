@@ -18,30 +18,30 @@ if __name__ == '__main__':
 
     # 2) Mean exec time
     start_time = time.time()
-    _ = df['x1'].mean()
+    _ = df['salary'].mean()
     line = f"2. Modin - Mean exec time: {time.time() - start_time}"
     print(line); file.write(f"{line}\n")
 
     # 3) Std exec time
     start_time = time.time()
-    _ = df['x1'].std()
+    _ = df['salary'].std()
     line = f"3. Modin - Std exec time: {time.time() - start_time}"
     print(line); file.write(f"{line}\n")
 
     # 4) Unique exec time
     start_time = time.time()
-    _ = df['user_id'].unique()
+    _ = df['id'].unique()
     line = f"4. Modin - Unique exec time: {time.time() - start_time}"
     print(line); file.write(f"{line}\n")
 
     # 5) Cumsum exec time
     start_time = time.time()
-    _ = df['y1'].cumsum()
+    _ = df['salary'].cumsum()
     line = f"5. Modin - Cumsum exec time: {time.time() - start_time}"
     print(line); file.write(f"{line}\n")
 
     # 6) Groupby Aggregation exec time
     start_time = time.time()
-    _ = df.groupby('user_id')['x1'].mean()
+    _ = df.groupby('id')['salary'].mean()
     line = f"6. Modin - Groupby Aggregation exec time: {time.time() - start_time}"
     print(line); file.write(f"{line}\n")
