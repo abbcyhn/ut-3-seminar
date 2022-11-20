@@ -35,7 +35,9 @@ if __name__ == '__main__':
     _ = 0
     for i in range(0, df.shape[0]): 
         v = df['salary'].values[i]
-        _ += v.as_py()
+        v = v.as_py()
+        if v is not None:
+            _ += v
     line = f"5. Vaex - Cumsum exec time: {time.time() - start_time}"
     print(line); file.write(f"{line}\n")
 
