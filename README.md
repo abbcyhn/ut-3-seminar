@@ -4,10 +4,10 @@
 ## Reports
 
 ### 1) Draft Version - 02.11.2022
-- [x] [PDF](/docs/Report%20-%20Final.pdf)
+- [x] [PDF](/docs/reports/Report%20-%20Final.pdf)
 
 ### 2) Final Version - 07.12.2022
-- [x] [PDF](/docs/Report%20-%20Final.pdf)
+- [x] [PDF](/docs/reports/Report%20-%20Final.pdf)
 
 
 ## Presentations
